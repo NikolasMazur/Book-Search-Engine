@@ -5,7 +5,7 @@ This project was built with NodeJS, Sequilize, Router, and MySQL to provide a ba
 2. Copy repository
 3. Run `npm install`
 
-Or visit the deployed site at: 
+Or visit the deployed site at: https://nmm-book-search-engine.herokuapp.com
 
 ## Usage
 - Navigate to the login/signup page
@@ -21,7 +21,3 @@ The video below shows testing of various methods for manipulating the SQL server
 
 ## Questions
 For additional information you can reach out at the GitHub account "NikolasMazur".
-
-## To-do
-As of right now the application is missing two components.
-1. Fix products `put`
